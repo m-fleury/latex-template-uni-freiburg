@@ -46,6 +46,8 @@ The AI declaration is a way to make sure that if in the future it
 turns to be possible to detect AI usage, you have properly declared it
 (unlike various German politicians).
 
+You can also delete the line if your supervisor does not want it
+(search for `AI declaration` in `main.tex`).
 
 ### Cover
 
